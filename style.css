@@ -1,0 +1,153 @@
+.whole{
+height: 61rem;
+width: 86rem;
+/* background: linear-gradient(180deg, white 28%, bisque 10%); */
+background-color: bisque;
+margin-top: -2rem;
+margin-left: -1rem;
+}
+.header{
+    height: 11.5rem;
+    width: 86rem;
+    background-color:#9b141a;
+    margin-bottom: 33rem;
+}
+.navb{
+    height: 11rem;
+    width: 65.9rem;
+    background-color: rgb(226, 43, 43);
+    margin-left: 10rem;
+    
+
+}
+#head{
+color: white;
+font-size: 3rem;
+width: 29rem;
+/* text-align: center; */
+margin-left: 15rem;
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.nav{
+    height: 3rem;
+    width: 65.9rem;
+    background-color: bisque;
+    margin-left: 10rem;
+    margin-top: -0.6rem;
+    border-top-right-radius: 0.9rem;
+    border-top-left-radius: 0.5rem;
+    border-top-style: solid;
+    border-top-width: 0.1rem;
+
+}
+.attr{
+    height: 3rem;
+    width: 50.9rem;
+    background-color: white;
+    margin-left: 25rem;
+    margin-top: -3.5rem;
+    border-top-right-radius: 0.7rem;
+    border-top-left-radius: 0.5rem;
+    /* border-collapse: collapse; */
+    /* border-bottom-style:solid; */
+    border-top-style: solid;
+    border-top-color: white;
+    border-width: 0.1rem;
+}
+
+.navi {
+margin-left: 2rem;
+margin-top: -0.2rem;
+padding: 1rem;
+}
+
+a{
+padding: 1rem;
+text-decoration: none;
+color: brown;
+
+}
+
+.vaathi{
+height: 9rem;
+width: 42rem;
+border-color: white;
+border-style:solid;
+border-width: 0.2rem;
+}
+#vaa{
+margin-top: -28rem;
+margin-left: 19rem;
+}
+
+.reel{
+
+    margin-left: -51.5rem;
+    border-style: solid; 
+border-color: bisque;
+/* float: left; */
+
+}
+
+th,td{
+    padding: 0.3rem;
+}
+.table{
+margin-left: 46rem;
+margin-top: -9rem;
+}
+
+.content{
+
+height: 12rem;
+width: 41rem;
+margin-left: -55rem;
+margin-top: 2rem;
+border-style: solid;
+border-width: 0.1rem;
+border-color: black;
+border-radius: 0.7rem;
+padding: 1rem;
+}
+
+#heading{
+
+    color:#9b141a;
+}
+#booking{
+color: black;
+}
+.booking{
+margin-left: 35rem;
+margin-top: -13.5rem;
+font-size: large;
+
+}
+#span{
+padding: 1.5rem;
+
+}
+.banner{
+border-color:#9b141a;
+border-style: solid;
+border-width: 0.5rem;
+border-radius: 0.8rem;
+margin-top: 3rem;
+margin-left: -9.1rem;
+
+}
+.footer{
+
+    background-color: #9b141a;
+    height: 3rem;
+    width: 62rem;
+    padding-top:0.05px;
+    color: white;
+    margin-top: 0.5rem;
+    margin-left: -10rem;
+text-align: center;
+}
+#footer{
+    color: white;
+}
